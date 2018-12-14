@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto|Roboto+Mono');
+
+
+body {
+    background: purple;
+    color: white;
+}
+a {
+    color: grey;
+}
+
+a:hover {
+    color: black;
+    background: white;
+    text-decoration: none;
+}
+
+h1 {
+    color: blue;
+    font-size: 50pt;
+    font-family: 'Roboto Mono', sans-serif;
+}
+
+div#left{
+	background: pink;
+	
+}
